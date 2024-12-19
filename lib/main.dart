@@ -1,6 +1,6 @@
 //import 'package:agri_saathi/Homescreens/bottomnavigation.dart';
 import 'package:agri_saathi/Loginscreen/loginscreen.dart';
-import 'package:agri_saathi/Loginscreen/phoneauthscreen.dart';
+
 import 'package:agri_saathi/appscreens/Detailedpage/detailpage.dart';
 import 'package:agri_saathi/appscreens/bottomnavigation.dart';
 import 'package:agri_saathi/appscreens/homescreen.dart';
